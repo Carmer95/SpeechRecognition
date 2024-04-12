@@ -1,0 +1,48 @@
+.bg {
+    background-color: rgb(255, 255, 255) 
+}
+
+.presentation-title {
+    background-color: rgba(0, 255, 0, .35);
+    border-radius: 8px;
+    padding: 6px;
+    margin: 2px;
+    width: 100%;
+}
+
+.presentation-subtitle {
+    margin-bottom: 50px;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+    height: 20px;
+}
+
+.button {
+    display:flex;
+    justify-content: center;
+    border-radius: 13px;
+}
+
+.presentation-subtitle {
+    color:  rgb(0, 255, 234);
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.speech p {
+    color: rgb(140, 0, 255);
+    text-align: left;
+    background-color: rgb(255, 220, 220);
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.speech p.replay {
+    text-align: right;
+}
